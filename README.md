@@ -1,16 +1,11 @@
-# book_spaces
+# Book_Space
 
-A new Flutter project.
+- Created two platforms for the organization: one for donating old books and another for getting Books.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+- Facilitated payment donation feature through RazorPay which allows user to pay through UPI or Card.
+## Demo:-
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://user-images.githubusercontent.com/95155901/203606376-6d8ac0c8-c9ec-4c71-8bed-7443ae4e3a50.mp4
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
